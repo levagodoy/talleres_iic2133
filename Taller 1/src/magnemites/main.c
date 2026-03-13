@@ -113,11 +113,11 @@ int main(int argc, char **argv){
             for (int i = 0; i < S; i++){
                 Magnezone * mag_t = magnezones[i];
                 if (REMOVE(magnemite_id, mag_t)){
-                    fprintf(output_file, "Magnemite %d abandono a su magnezone.\n", magnemite_id);
                     break;
                 }
                 else continue;
             }
+            fprintf(output_file, "Magnemite %d abandono a su magnezone.\n", magnemite_id);
 
         }
 
