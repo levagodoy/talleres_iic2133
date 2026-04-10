@@ -1,0 +1,10 @@
+Centro Pokemon: nuevo pokemon id 1
+Centro Pokemon: nuevo pokemon id 2
+Centro Pokemon: atendido id 2 segun prioridad Speed
+Centro Pokemon: atendido id 1 segun prioridad Speed
+Centro Pokemon: atendido id 1 segun prioridad HP
+Centro Pokemon: atendido id 2 segun prioridad HP
+Centro Pokemon: nuevo pokemon id 3
+Centro Pokemon: nuevo pokemon id 4
+Centro Pokemon: atendido id 3 segun prioridad Speed
+Centro Pokemon: atendido id 4 segun prioridad Speed

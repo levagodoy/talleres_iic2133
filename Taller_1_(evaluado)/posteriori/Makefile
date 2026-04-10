@@ -8,9 +8,7 @@
 ###############################################################################
 
 # Directorios que serán compilados a un programa
-
-PROGRAMS=pokemones
-
+PROGRAMS=magnemites
 
 # Directorios con elementos de uso común
 COMMON=
@@ -28,12 +26,11 @@ CC=gcc -std=gnu11
 OBJ=obj
 
 
-
 ###############################################################################
 # OPTIMIZACIÓN POR COMPILADOR (descomenta el que necesites, comenta el otro)  #
 ###############################################################################
 
-OPT=-Ofast # Guardar toda la información para poder debugear. No optimiza
+OPT=-g # Guardar toda la información para poder debugear. No optimiza
 # OPT=-O3 # Optimiza al máximo, descarta toda la información de debug.
 
 ###############################################################################
