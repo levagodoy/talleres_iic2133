@@ -1,0 +1,7 @@
+Centro Pokemon: nuevo pokemon id 1
+Centro Pokemon: nuevo pokemon id 2
+Centro Pokemon: nuevo pokemon id 3
+Centro Pokemon: nuevo pokemon id 4
+Centro Pokemon: Escuadron formado por IDs: 3, 1
+Centro Pokemon: nuevo pokemon id 5
+Centro Pokemon: Escuadron formado por IDs: 5, 2, 4
